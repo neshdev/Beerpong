@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeshStudios.Games.Beerpong", "NeshStudios.Games.Beerpong\NeshStudios.Games.Beerpong.csproj", "{0D156F23-AF28-47AA-AC21-ECF556289C9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeshStudios.Games.Beerpong.Tests", "NeshStudios.Games.Beerpong.Tests\NeshStudios.Games.Beerpong.Tests.csproj", "{009BAEB7-8DE6-4A37-BE6F-21C2140F018B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeshStudios.Games.Beerpong.Data", "NeshStudios.Games.Beerpong.Data\NeshStudios.Games.Beerpong.Data.csproj", "{F74193C1-4F08-4854-935D-A9DAC3B28506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeshStudios.Games.Beerpong.Data.Test", "NeshStudios.Games.Beerpong.Data.Test\NeshStudios.Games.Beerpong.Data.Test.csproj", "{FF371D5D-4B98-4C1A-8A64-582F1C430F5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeshStudios.Games.Beerpong.Data.Migration", "NeshStudios.Games.Beerpong.Data.Migration\NeshStudios.Games.Beerpong.Data.Migration.csproj", "{BF4614C9-91FD-45F0-95CE-4468C74E1B0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D156F23-AF28-47AA-AC21-ECF556289C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D156F23-AF28-47AA-AC21-ECF556289C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D156F23-AF28-47AA-AC21-ECF556289C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D156F23-AF28-47AA-AC21-ECF556289C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{009BAEB7-8DE6-4A37-BE6F-21C2140F018B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009BAEB7-8DE6-4A37-BE6F-21C2140F018B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009BAEB7-8DE6-4A37-BE6F-21C2140F018B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009BAEB7-8DE6-4A37-BE6F-21C2140F018B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F74193C1-4F08-4854-935D-A9DAC3B28506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F74193C1-4F08-4854-935D-A9DAC3B28506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F74193C1-4F08-4854-935D-A9DAC3B28506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F74193C1-4F08-4854-935D-A9DAC3B28506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF371D5D-4B98-4C1A-8A64-582F1C430F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF371D5D-4B98-4C1A-8A64-582F1C430F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF371D5D-4B98-4C1A-8A64-582F1C430F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF371D5D-4B98-4C1A-8A64-582F1C430F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF4614C9-91FD-45F0-95CE-4468C74E1B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF4614C9-91FD-45F0-95CE-4468C74E1B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF4614C9-91FD-45F0-95CE-4468C74E1B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF4614C9-91FD-45F0-95CE-4468C74E1B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

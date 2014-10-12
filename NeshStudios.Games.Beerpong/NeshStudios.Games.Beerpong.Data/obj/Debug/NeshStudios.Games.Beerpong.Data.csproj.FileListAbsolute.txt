@@ -1,0 +1,10 @@
+c:\projects\NeshStudios.Games.Beerpong\NeshStudios.Games.Beerpong.Data\bin\Debug\NeshStudios.Games.Beerpong.Data.dll
+c:\projects\NeshStudios.Games.Beerpong\NeshStudios.Games.Beerpong.Data\bin\Debug\NeshStudios.Games.Beerpong.Data.pdb
+c:\projects\NeshStudios.Games.Beerpong\NeshStudios.Games.Beerpong.Data\obj\Debug\NeshStudios.Games.Beerpong.Data.dll
+c:\projects\NeshStudios.Games.Beerpong\NeshStudios.Games.Beerpong.Data\obj\Debug\NeshStudios.Games.Beerpong.Data.pdb
+c:\projects\NeshStudios.Games.Beerpong\NeshStudios.Games.Beerpong.Data\bin\Debug\NeshStudios.Games.Beerpong.Data.dll.config
+c:\projects\NeshStudios.Games.Beerpong\NeshStudios.Games.Beerpong.Data\bin\Debug\EntityFramework.dll
+c:\projects\NeshStudios.Games.Beerpong\NeshStudios.Games.Beerpong.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\projects\NeshStudios.Games.Beerpong\NeshStudios.Games.Beerpong.Data\bin\Debug\EntityFramework.xml
+c:\projects\NeshStudios.Games.Beerpong\NeshStudios.Games.Beerpong.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\NeshStudios.Games.Beerpong\NeshStudios.Games.Beerpong.Data\obj\Debug\NeshStudios.Games.Beerpong.Data.csprojResolveAssemblyReference.cache

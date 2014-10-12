@@ -1,0 +1,12 @@
+c:\Projects\NeshStudios.Games.Beerpong\NeshStudios.Games.Beerpong.Data.Migration\bin\Debug\NeshStudios.Games.Beerpong.Data.Migration.exe.config
+c:\Projects\NeshStudios.Games.Beerpong\NeshStudios.Games.Beerpong.Data.Migration\bin\Debug\NeshStudios.Games.Beerpong.Data.Migration.exe
+c:\Projects\NeshStudios.Games.Beerpong\NeshStudios.Games.Beerpong.Data.Migration\bin\Debug\NeshStudios.Games.Beerpong.Data.Migration.pdb
+c:\Projects\NeshStudios.Games.Beerpong\NeshStudios.Games.Beerpong.Data.Migration\bin\Debug\EntityFramework.dll
+c:\Projects\NeshStudios.Games.Beerpong\NeshStudios.Games.Beerpong.Data.Migration\bin\Debug\EntityFramework.SqlServer.dll
+c:\Projects\NeshStudios.Games.Beerpong\NeshStudios.Games.Beerpong.Data.Migration\bin\Debug\EntityFramework.xml
+c:\Projects\NeshStudios.Games.Beerpong\NeshStudios.Games.Beerpong.Data.Migration\bin\Debug\EntityFramework.SqlServer.xml
+c:\Projects\NeshStudios.Games.Beerpong\NeshStudios.Games.Beerpong.Data.Migration\obj\Debug\NeshStudios.Games.Beerpong.Data.Migration.exe
+c:\Projects\NeshStudios.Games.Beerpong\NeshStudios.Games.Beerpong.Data.Migration\obj\Debug\NeshStudios.Games.Beerpong.Data.Migration.pdb
+c:\Projects\NeshStudios.Games.Beerpong\NeshStudios.Games.Beerpong.Data.Migration\obj\Debug\NeshStudios.Games.Beerpong.Data.Migration.csprojResolveAssemblyReference.cache
+c:\Projects\NeshStudios.Games.Beerpong\NeshStudios.Games.Beerpong.Data.Migration\bin\Debug\NeshStudios.Games.Beerpong.Data.dll
+c:\Projects\NeshStudios.Games.Beerpong\NeshStudios.Games.Beerpong.Data.Migration\bin\Debug\NeshStudios.Games.Beerpong.Data.pdb
