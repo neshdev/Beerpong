@@ -1,1 +1,0 @@
-c:\projects\NeshStudios.Games.Beerpong\NeshStudios.Games.Beerpong.Tests\obj\Debug\NeshStudios.Games.Beerpong.Tests.csprojResolveAssemblyReference.cache
